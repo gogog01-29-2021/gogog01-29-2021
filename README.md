@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [SeongHyun Kim]!
+# 👋 Hi, I'm [ChengXian]!
 
 🎓 ITM Student at MIT | 🌱 MARS & Andromeda | 🚀 MARS Enthusiast  
 
