@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [SeongHyun Kim]!
 
-🎓 ITM Student at MIT | 🌱 MARS | 🚀 MARS Enthusiast  
+🎓 ITM Student at MIT | 🌱 MARS & Andromeda | 🚀 MARS Enthusiast  
 
 ---
 
