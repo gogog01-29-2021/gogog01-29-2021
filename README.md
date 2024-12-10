@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [SeongHyun Kim]!
 
-🎓 ITM Student at SeoulTech | 🌱 Learning Full-Stack Development | 🚀 Open Source Enthusiast  
+🎓 ITM Student at MIT | 🌱 MARS | 🚀 MARS Enthusiast  
 
 ---
 
@@ -15,12 +15,12 @@
 
 ## 🛠️ Projects
 
-### 📊 [Project 1: Smart Data Dashboard](https://github.com/yourusername/project1)
+### 📊 [Project 1: Won Detection](https://github.com/Wondetection)
 - **Tech Stack**: React, Django, PostgreSQL  
 - **Summary**: A data visualization tool for business analytics.
 
-### 🕹️ [Project 2: Game Development Project](https://github.com/yourusername/project2)
-- **Tech Stack**: Pygame, Python  
+### 🕹️ [Project 2: Financial Data Analytics](https://github.com/21winter)
+- **Tech Stack**: Pytorch, Python,3D Vision  
 - **Summary**: A simple avoider game built with Pygame.
 
 ---
