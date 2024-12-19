@@ -24,6 +24,8 @@
 - **Summary**: A simple avoider game built with Pygame.
 
 ---
+### :sweat_smile: Contribution
+[StockPriceVisualizer]
 
 ## 📊 GitHub Stats
 
