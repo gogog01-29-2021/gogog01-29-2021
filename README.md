@@ -6,10 +6,10 @@
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages**: Java, Python, JavaScript  
-- 🌐 **Frameworks & Libraries**: Spring Boot, Django, React  
+- 💻 **Languages**: Java, Python, JavaScript,C++,Haskell,Rust
+- 🌐 **Frameworks & Libraries**: Spring Boot, Django, React, QuantLib, MatLab
 - 🛢️ **Databases**: MySQL, PostgreSQL  
-- ⚙️ **Tools & Platforms**: Git, GitHub, Docker  
+- ⚙️ **Tools & Platforms**: Git, GitHub, Docker, OpenCV
 
 ---
 
