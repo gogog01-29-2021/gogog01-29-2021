@@ -37,10 +37,8 @@
 ---
 
 ## 📞 Contact Me
-
-- 📧 **Email**: yourname@example.com  
-- 💼 **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EA%B9%80-419b81203/)]  
-- 🌐 **Portfolio**: [ChengXian]((https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EA%B9%80-419b81203/))
+- 💼 **LinkedIn**: [[ChengXian](https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EA%B9%80-419b81203/)]  
+- 🌐 **Portfolio**: [[ChengXian]((https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EA%B9%80-419b81203/))]
 
 ---
 
